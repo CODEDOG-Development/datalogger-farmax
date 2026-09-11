@@ -47,7 +47,7 @@ const DATALOGGERS = [
   { id: 'DATA 027', endereco: 'SEM ENDEREÇO', serie: 'VERIFICAR', modelo: 'Tlog B100H', ultimaTroca: null, certificado: '', validadeCert: null },
   { id: 'DATA 028', endereco: 'SEM ENDEREÇO', serie: 'VERIFICAR', modelo: 'Tlog B100H', ultimaTroca: null, certificado: '', validadeCert: null },
   { id: 'DATA 029', endereco: 'SEM ENDEREÇO', serie: 'VERIFICAR', modelo: 'Tlog B100H', ultimaTroca: null, certificado: '', validadeCert: null },
-  { id: 'DATA 030', endereco: "SEM ENDEREÇO", serie: 'VERIFICAR', modelo: 'Tlog B100H', ultimaTroca: null, certificado: '', vallidadeCert: null}
+  { id: 'DATA 030', endereco: "SEM ENDEREÇO", serie: 'VERIFICAR', modelo: 'Tlog B100H', ultimaTroca: null, certificado: '', validadeCert: null}
 
 ];
 
